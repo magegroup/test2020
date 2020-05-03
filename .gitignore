@@ -1,0 +1,4 @@
+# ignore all xml Fiels
+*_hello.xml
+*_test.xml
+*.env
